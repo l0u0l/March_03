@@ -119,7 +119,7 @@ img.left {margin: 0 18px 6px 0;}
 .content {
 	background: url(img/bgcontent.gif) no-repeat;
 	clear: both;
-	font-size: 1.2em;
+	font-size: 1.5em;
 	margin: 0 52px;
 	padding: 0 38px 12px;
 }
@@ -137,15 +137,15 @@ img.left {margin: 0 18px 6px 0;}
 	font: normal 2em serif;
 }
 
-.item .title:first-letter {
+/*.item .title:first-letter {
 	display: block;
 	float: left;
 	font-size: 2.4em;
-}
+}*/
 
 .item .metadata {
 	color: #666;
-	font-size: 0.9em;
+	font-size: 1.2em;
 	float: left;
 	padding: 0 0 6px 4px;
 }
